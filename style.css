@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+
+html, body {
+  overflow-x: hidden;
+}
+h1{
+
+	font-family: 'Dancing Script', cursive;
+}
+.first{
+	min-height: 100vh;
+	width: 100%;
+	scroll-margin-top: 80px;
+	/* background-color: black; */
+}
+.carousel-item img{
+	height: 80vh;
+}
